@@ -1,0 +1,201 @@
+
+    .nav-link{
+    color: #fff !important;
+    font-size: 17px;
+    
+    font-weight: 500;
+
+}
+.navbar{
+  background-color: #ff0157 !important;
+}
+.sec{
+    background-color:rgba(157, 204, 231, 0.452) !important;
+    height:700px ;
+    display: flex;
+    
+}
+
+.nav-link:hover{
+    color:black !important;
+    
+}
+
+.media{
+    list-style: none;
+}
+.theme-text{
+    color: #ff0157;
+
+}
+
+    
+.btn{
+    background-color: #ff0157 !important;
+    color: #fff !important;
+    
+}
+.row h2{
+    color: #ff0157;
+}
+.outil h3{
+    border-bottom: 1px solid rgb(53, 53, 53);
+    color: #ff0157 !important;
+}
+.mot h3{
+    color: #ff0157 !important;
+    border-bottom: 1px solid rgb(53, 53, 53);
+}
+p{
+    text-align: justify !important;
+}
+
+.apropos{
+     background: linear-gradient(281deg, #c2fcf1, #d1a2a2) !important;
+   
+}
+.Education p span{
+    color: #ff0157;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 2px solid ;
+    width: 100px;
+    
+}
+.card-header h4{
+  color: #fff !important;
+}
+
+.card-body p{
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 10px;
+}
+.competence{
+   background-color:#ccd9e2 !important;
+   
+  
+  
+}
+
+
+.progress{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.langage h3{
+    color: #ff0157 !important;
+    font-size: 36px;
+    font-weight: 2px;
+    font-style: italic;
+}
+
+.competence p span{
+    color: #ff0157;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 2px solid ;
+    width: 100px;
+    
+}
+.Service {
+    background-color:rgba(157, 204, 231, 0.452) !important;
+}
+.Service p span{
+    color: #ff0157;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 2px solid ;
+    width: 100px;
+    
+}
+.card {
+    width: 270px;
+    height: 465px;
+    background-color: #fbfbfd9f !important;
+    border: 2px grey solid !important;
+    border-radius: 15px !important;
+    margin: 0 auto;
+    transition: 0.2s;
+}
+.card-footer a{
+    text-decoration: none;
+    width: 100%;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 10px 12px;
+    color: #fff;
+    background: #ff0157;
+    text-align: center;
+    border: 1px solid black;
+    position: relative;
+    z-index: 1;
+    transition: color 0.5s
+  
+}
+.card img{
+   
+    border-radius: 15px;
+    
+
+}
+.card-footer a span{
+     width: 0%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #fff;
+    z-index: -1;
+    transition: 0.5s;
+}
+.card-footer a:hover span{
+    width: 100%;
+    background-color: blue !important;
+}
+
+.card-footer a:hover{
+  
+    color: white !important;
+}
+.Projets p span{
+
+    color: #ff0157;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 2px solid ;
+    width: 100px;
+}
+.carousel-caption h5{
+    color: #ff0157;
+    font-size: 40px;
+    background-color: #fff;
+   
+}
+
+
+.contactForm p span{
+    color: #ff0157;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 2px solid ;
+    width: 100px;
+}
+form label{
+    font-size: 23px !important;
+    color:#ff0157!important;
+    font-style: italic;
+    margin-left: 100px;
+
+}
+#lang1{
+  background-color: #0cd2ec!important;
+
+}
+
+#lang2{
+    background-color: #03010f83!important;
+  
+  }
